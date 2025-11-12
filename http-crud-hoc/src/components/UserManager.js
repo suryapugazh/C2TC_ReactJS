@@ -37,7 +37,6 @@ const UserManager = ({ data, addData, updateData, deleteData }) => {
       <div className="card">
         <h2 className="title">User Manager</h2>
 
-        {/* Add New User */}
         <div className="form-section">
           <input
             type="text"
